@@ -1,0 +1,18 @@
+java -ea amazons.Main
+*time 3 3
+manual black
+d1-a1(b1)
+j7-e2(a2)
+a4-d1(d2)
+a7-b6(b2)
+d1-c1(c2)
+e2-f2(e2)
+g1-d1(e1)
+f2-g2(f2)
+j4-g1(h1)
+g2-h2(g2)
+g1-f1(g1)
+h2-i3(h3)
+*win+
+dump
+quit
