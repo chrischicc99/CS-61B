@@ -1,0 +1,10 @@
+L A 1 1
+L B 2 2
+L C 3 3
+L D 4 4
+L E 5 5
+
+R A R1 2 SN B
+R B R1 2 SN C
+R C R1 2 SN D
+R D R1 2 SN E
